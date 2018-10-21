@@ -53,3 +53,4 @@ def all_products():
                 _all_products.append(product_data)
 
     return _all_products
+
