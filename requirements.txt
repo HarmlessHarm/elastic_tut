@@ -10,5 +10,5 @@ pkg-resources==0.0.0
 python-dateutil==2.7.3
 -e git+git@github.com:HarmlessHarm/elastic_tut.git@ff77019f57930061a9a3b994ffe8672da78369ec#egg=searchapp
 six==1.11.0
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.14.1
